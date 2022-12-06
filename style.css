@@ -3,8 +3,8 @@ body{
 }
 .container{
     width: 80vw;
-    height: 28vh;
-    border:1px solid black;
+    height: 50vh;
+    /* border:1px solid black; */
     display: flex;
     justify-content: flex-start;
     align-items: flex-start;
@@ -29,4 +29,8 @@ body{
 
 i{
     cursor: pointer;
+}
+
+#msg{
+    color: red;
 }
