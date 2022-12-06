@@ -1,0 +1,15 @@
+body{
+    font-family: sans-serif;
+}
+.container{
+    width: 80vw;
+    height: 28vh;
+    border:1px solid black;
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+}
+
+.left{
+    
+}
